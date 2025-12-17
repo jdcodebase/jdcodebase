@@ -22,7 +22,7 @@ I'm a self-driven full-stack developer, YouTuber, and the founder of **[JDCodeBa
 - Encourage contribution and open-source culture
 
 🔗 Visit: [jdcodebase](https://jdcodebase.vercel.app/)  
-📺 YouTube: [@JDCodebase](https://www.youtube.com/@JDCodebase)  
+📺 YouTube: [@JDCodebase](https://www.youtube.com/@JD-Codebase)
 📂 GitHub Org: [github.com/JDCodebase](https://github.com/jdcodebase)
 
 ---
@@ -46,9 +46,6 @@ I'm a self-driven full-stack developer, YouTuber, and the founder of **[JDCodeBa
 
 - 🔗 [JDCodeBase Website](https://github.com/jdcodebase/jdcodebase-platform)  
   A clean, static site built with **Next.js + TailwindCSS** showcasing tutorials, DSA content, and downloadable resources.
-
-- 🔗 [Daily DSA Problems](https://github.com/jdcodebase/jdcodebase-dsa-series)  
-  A growing collection of **LeetCode-style problems** with structured solutions and video explanations.
 
 ---
 
