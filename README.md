@@ -47,7 +47,13 @@
 
 ---
 
-### 📌 Featured Project
+### 📌 Featured Projects
+
+**[Task Manager Web App](https://github.com/jdcodebase/task-manager-web-app)** — Full-stack MERN task management app
+- Frontend and backend deployed separately (Vercel + Render), connected to MongoDB Atlas
+- Task creation, editing, deletion, completion toggling, search, filtering by status/priority/due date
+- Real-time progress bar, priority levels, and due date tracking
+- 🔗 Live demo: [task-manager-web-app-roan.vercel.app](https://task-manager-web-app-roan.vercel.app/)
 
 **[Notes Web App](https://github.com/jdcodebase/notes-web-app)** — Full-stack CRUD notes application
 - Built with React, Node.js, Express, MongoDB Atlas, and Tailwind CSS
@@ -69,7 +75,7 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/jatindhamija/)
 - 🎥 [YouTube — JDCodebase](https://www.youtube.com/@jdcodebase)
 - 🧩 [LeetCode](https://leetcode.com/u/jdcodebase/)
-- 🌐 [Portfolio](https://portfolio-nine-beta-sx8hmki5b0.vercel.app/)
+- 🌐 [Portfolio](https://jatin-portfolio-beta.vercel.app/)
 - 📧 jatindhamija025@gmail.com
 
 <p align="center"><i>Always learning, always building 🚀</i></p>
